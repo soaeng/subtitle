@@ -5,6 +5,7 @@
 | 1️⃣   | [자막 파일 크롤링 및 다운로드](sub_file_crawling.ipynb) |
 | 2️⃣   | [텍스트 추출](extract_text.ipynb)                       |
 | 3️⃣   | [형태소 분석](analysis.ipynb)                           |
+| 4️⃣   | [데이터 저장, 빈도수 계산, 번역](bigvoca.ipynb)         |
 
 <br/><hr/><br/>
 
@@ -18,3 +19,5 @@
 - [MeCab 설치 참고 유튜브](https://www.youtube.com/watch?v=gj8x8x-OVgA)
 - [정규식](https://regex101.com/)
 - [데이터 텍스트 마이닝 가이드](https://steviepoppe.net/blog/2020/07/a-quick-guide-to-data-mining-textual-analysis-of-japanese-twitter-part-4/)
+- [googletrans api](https://py-googletrans.readthedocs.io/en/latest/)
+- [papago api](https://developers.naver.com/docs/papago/papago-nmt-example-code.md)
